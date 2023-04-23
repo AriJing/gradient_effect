@@ -1,16 +1,7 @@
 # gradient_window
 
-A new Flutter project.
+用 Flutter 3 写的跟随鼠标移动的径向渐变 widget
 
-## Getting Started
+设置不同的半径大小和中心颜色可以有不同的界面效果
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Alt 效果图片](iShot_2023-04-23_18.04.51.gif)
